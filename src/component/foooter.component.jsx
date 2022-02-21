@@ -4,11 +4,10 @@ import {BsLinkedin} from 'react-icons/bs'
 import {AiOutlineInstagram} from 'react-icons/ai'
 function Footer() {
   return (
-    <div className="footer bg-secondary text-white container-fluid fixed-bottom  p-4">
+    <div className="footer bg-secondary p-1 text-white container-fluid fixed-bottom ">
         <div className="container hstack icon-value gap-3">
-        <p className="text-center vstack mt-5">@Copyright by Iamniteshpandit</p>
-           
-          
+        <p className="text-center vstack">@Copyright by Iamniteshpandit</p>
+        
            <a href="https://github.com/IAMNITESHPANDIT" target="_blank" rel="github">
            <AiFillGithub />
             </a>
