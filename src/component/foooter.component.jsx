@@ -8,15 +8,15 @@ function Footer() {
         <div className="container hstack icon-value gap-3">
         <p className="text-center vstack">@Copyright by Iamniteshpandit</p>
         
-           <a href="https://github.com/IAMNITESHPANDIT" target="_blank" rel="github">
+           <a href="https://github.com/IAMNITESHPANDIT" target="_blank" alt="image"  rel="noreferrer">
            <AiFillGithub />
             </a>
            
-           <a href="https://www.linkedin.com/in/iamniteshpandit/" target="_blank" rel="Linkdin">
+           <a href="https://www.linkedin.com/in/iamniteshpandit/" alt="image" target="_blank" rel="noreferrer">
            <BsLinkedin/>
            </a>
            
-           <a  href="https://www.instagram.com/iamniteshpandit/" target="_blank" rel="Instagram">
+           <a  href="https://www.instagram.com/iamniteshpandit/" alt="image" target="_blank" rel="noreferrer">
            <AiOutlineInstagram/>
            </a>
 

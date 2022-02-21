@@ -40,7 +40,7 @@ function Main() {
 
         </div>
         <div className="col-12 col-md-6 p-4">
-         <img className="img-fluid" src={Diamond}/>
+         <img className="img-fluid" alt="programming logo" src={Diamond}/>
         </div>
       </div>
       
