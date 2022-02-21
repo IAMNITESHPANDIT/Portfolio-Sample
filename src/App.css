@@ -1,3 +1,15 @@
-.logo{
+.logo , .myText{
     color:#6C63FF;
+}
+
+.icon-value > a{
+    text-decoration: none;
+    color:white;
+    width: 40px;
+    height: 0px;
+    cursor: pointer;
+}
+a > *{
+    width:40px;
+    height:40px;
 }
