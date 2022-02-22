@@ -11,7 +11,7 @@ function NavBar() {
       <span className="navbar-toggler-icon"></span>
     </button>
     <div className="collapse navbar-collapse" id="navbarNavDropdown">
-      <ul className="navbar-nav ms-lg-auto">
+      <ul className="navbar-nav ms-lg-auto text-center">
         <li className="nav-item">
           <a className="nav-link active" aria-current="page" href="#">Home</a>
         </li>
@@ -22,7 +22,7 @@ function NavBar() {
           <a className="nav-link" href="#">Hire</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Sponsor Us </a>
+          <a className="nav-link" href="#">About Us</a>
         </li>
         
       </ul>

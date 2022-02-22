@@ -39,7 +39,7 @@ function Main() {
             </div>
 
         </div>
-        <div className="col-12 col-md-6 p-4">
+        <div className="col-12 col-md-6 p-4 mb-5">
          <img className="img-fluid" alt="programming logo" src={Diamond}/>
         </div>
       </div>
