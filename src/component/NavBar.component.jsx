@@ -1,5 +1,11 @@
 import React from 'react'
 import '../App.css';
+import {Link} from "react-router-dom";
+import Hire from './NavbarComponent/hire.component';
+import About from './NavbarComponent/hire.component';
+import Support from './NavbarComponent/hire.component';
+import Main from './main.component';
+
 function NavBar() {
   return (
     <div>
@@ -13,18 +19,17 @@ function NavBar() {
     <div className="collapse navbar-collapse" id="navbarNavDropdown">
       <ul className="navbar-nav ms-lg-auto text-center">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="#">Home</a>
+            <Link className="nav-link active" to="/">Home</Link>  
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Support</a>
+            <Link className="nav-link" to="/support">Support</Link>  
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">Hire</a>
+            <Link className="nav-link" to="/hire">Hire</Link>  
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">About Us</a>
-        </li>
-        
+            <Link className="nav-link" to="/about">About Us</Link>  
+        </li>   
       </ul>
     </div>
   </div>
