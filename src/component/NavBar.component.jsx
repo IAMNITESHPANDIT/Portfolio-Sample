@@ -1,10 +1,7 @@
 import React from 'react'
 import '../App.css';
 import {Link} from "react-router-dom";
-import Hire from './NavbarComponent/hire.component';
-import About from './NavbarComponent/hire.component';
-import Support from './NavbarComponent/hire.component';
-import Main from './main.component';
+
 
 function NavBar() {
   return (
