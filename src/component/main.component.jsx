@@ -34,7 +34,7 @@ function Main() {
                 I have learned and continue to learn mostly on my own. I set myself challenges beyond what I think is possible because I consider it to be the best way to learn. Some of my projects would not have been possible if it had not been for that philosophy.
                 Html ,CSS, JavaScript, React-(redux,context-api etc), SASS, Bootstrap and Node.js among other technologies.
                 Passionate about technology, programming, the stock market, sports and technologies for a sustainable future.
-                Certificate of Higher Education of Web Application Development (WAD) and largely self-taught.
+                Certificate of National Institute of Electronics and Information Technology (N.I.E.L.I.T) and largely self-taught.
               </p>
             </div>
 
