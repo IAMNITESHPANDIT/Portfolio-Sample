@@ -19,13 +19,13 @@ function NavBar() {
             <Link className="nav-link active" to="/Chalo-deploy-karte-hain">Home</Link>  
         </li>
         <li className="nav-item">
-            <Link className="nav-link" to="/support">Support</Link>  
+            <Link className="nav-link" to="/Chalo-deploy-karte-hain/support">Support</Link>  
         </li>
         <li className="nav-item">
-            <Link className="nav-link" to="/hire">Hire</Link>  
+            <Link className="nav-link" to="Chalo-deploy-karte-hain/hire">Hire</Link>  
         </li>
         <li className="nav-item">
-            <Link className="nav-link" to="/about">About Us</Link>  
+            <Link className="nav-link" to="Chalo-deploy-karte-hain/about">About Us</Link>  
         </li>   
       </ul>
     </div>

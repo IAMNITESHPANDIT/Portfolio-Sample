@@ -17,9 +17,9 @@ function App() {
       <Routes>
         /**here path changed path='/' into path="/Chalo-deploy-karte-hain" in-order to application would able to work with github pages  */
         <Route exact path="/Chalo-deploy-karte-hain" element={<Main />}/>
-        <Route exact path="/about" element={<About />} />
-        <Route exact path="/hire" element={<Hire/>} />
-        <Route exact path="/support" element={<Support />} />
+        <Route exact path="/Chalo-deploy-karte-hain/about" element={<About />} />
+        <Route exact path="/Chalo-deploy-karte-hain//hire" element={<Hire/>} />
+        <Route exact path="Chalo-deploy-karte-hain/support" element={<Support />} />
         <Route path="*" element={<h1>Page not Found</h1>} />
       </Routes>
       <Footer/>
