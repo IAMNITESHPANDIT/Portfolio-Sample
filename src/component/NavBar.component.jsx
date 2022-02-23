@@ -16,7 +16,7 @@ function NavBar() {
     <div className="collapse navbar-collapse" id="navbarNavDropdown">
       <ul className="navbar-nav ms-lg-auto text-center">
         <li className="nav-item">
-            <Link className="nav-link active" to="/">Home</Link>  
+            <Link className="nav-link active" to="/Chalo-deploy-karte-hain">Home</Link>  
         </li>
         <li className="nav-item">
             <Link className="nav-link" to="/support">Support</Link>  
