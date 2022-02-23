@@ -4,7 +4,7 @@ import Typical from  'react-typical';
 function About() {
   return (
     <div className="container">
-       <p className="h1 text-center ">About Us</p>
+       <p className="h1 text-center mt-4 ">About Us</p>
        <hr class="dropdown-divider"/>
       <div className="shadow-lg p-3 mb-5 bg-body mt-5 ms-5 p-4 rounded">
        <div className="row">
