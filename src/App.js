@@ -15,6 +15,7 @@ function App() {
       <NavBar/>
     
       <Routes>
+        /**here path changed path='/' into path="/Chalo-deploy-karte-hain" in-order to application would able to work with github pages  */
         <Route exact path="/Chalo-deploy-karte-hain" element={<Main />}/>
         <Route exact path="/about" element={<About />} />
         <Route exact path="/hire" element={<Hire/>} />
