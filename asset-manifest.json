@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Chalo-deploy-karte-hain/static/css/main.d347be37.css",
-    "main.js": "/Chalo-deploy-karte-hain/static/js/main.60420e4c.js",
+    "main.js": "/Chalo-deploy-karte-hain/static/js/main.d930d995.js",
     "static/js/787.0330aac2.chunk.js": "/Chalo-deploy-karte-hain/static/js/787.0330aac2.chunk.js",
     "static/media/programming.svg": "/Chalo-deploy-karte-hain/static/media/programming.e7fd0478451b8d72ff9b93b1ea475b66.svg",
     "index.html": "/Chalo-deploy-karte-hain/index.html",
     "main.d347be37.css.map": "/Chalo-deploy-karte-hain/static/css/main.d347be37.css.map",
-    "main.60420e4c.js.map": "/Chalo-deploy-karte-hain/static/js/main.60420e4c.js.map",
+    "main.d930d995.js.map": "/Chalo-deploy-karte-hain/static/js/main.d930d995.js.map",
     "787.0330aac2.chunk.js.map": "/Chalo-deploy-karte-hain/static/js/787.0330aac2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d347be37.css",
-    "static/js/main.60420e4c.js"
+    "static/js/main.d930d995.js"
   ]
 }
