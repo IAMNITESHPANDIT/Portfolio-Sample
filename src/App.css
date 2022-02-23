@@ -1,6 +1,11 @@
+
 .logo , .myText{
     color:#6C63FF;
 }
+.nameText{
+color:#15d666
+}
+
 
 .icon-value > a{
     text-decoration: none;
@@ -10,4 +15,12 @@
 a > *{
     width:20px;
     height:40px;
+}
+.rounded{
+    text-align:center;
+    width:900px;
+    height:300px;
+}
+.container > *{
+    text-align: center;
 }
