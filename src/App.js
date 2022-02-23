@@ -15,7 +15,7 @@ function App() {
       <NavBar/>
     
       <Routes>
-        <Route exact path="/" element={<Main />}/>
+        <Route exact path="/Chalo-deploy-karte-hain" element={<Main />}/>
         <Route exact path="/about" element={<About />} />
         <Route exact path="/hire" element={<Hire/>} />
         <Route exact path="/support" element={<Support />} />
