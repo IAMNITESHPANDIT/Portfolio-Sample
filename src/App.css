@@ -28,3 +28,7 @@ a > *{
   font-family: 'Redressed', cursive;
   font-size: 1.5em;
 }
+
+.myImg > div{
+    cursor: pointer;
+}
