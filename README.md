@@ -41,16 +41,14 @@ Choose one of the following options:
   latest version into a folder called `new-site`
 
   ```
-  npx create-html5-boilerplate new-site
-  cd new-site
+  npx create-Chalo-deploy-karte-hain new-website
+  cd new-website
   npm install
   npm start
   ```
 
 ## Features
 
-* A finely-tuned starter template. Reap the benefits of 10 years of analysis,
-  research and experimentation by over 200 contributors.
 * Designed with progressive enhancement in mind.
 * Includes:
   * [`Apache Server Configs`](https://github.com/h5bp/server-configs-apache)
