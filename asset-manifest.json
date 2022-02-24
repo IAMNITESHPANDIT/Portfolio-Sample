@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Chalo-deploy-karte-hain/static/css/main.5260c4e2.css",
-    "main.js": "/Chalo-deploy-karte-hain/static/js/main.a93bd235.js",
+    "main.css": "/Chalo-deploy-karte-hain/static/css/main.ac01327b.css",
+    "main.js": "/Chalo-deploy-karte-hain/static/js/main.55ee6648.js",
     "static/js/787.0330aac2.chunk.js": "/Chalo-deploy-karte-hain/static/js/787.0330aac2.chunk.js",
     "static/media/monster.jpg": "/Chalo-deploy-karte-hain/static/media/monster.5bbaa4c884725488054a.jpg",
     "static/media/port.jpg": "/Chalo-deploy-karte-hain/static/media/port.4e947808e5757d93fa60.jpg",
@@ -9,14 +9,15 @@
     "static/media/oss.jpg": "/Chalo-deploy-karte-hain/static/media/oss.edca21f8c98d7ceedb1f.jpg",
     "static/media/programming.svg": "/Chalo-deploy-karte-hain/static/media/programming.e7fd0478451b8d72ff9b93b1ea475b66.svg",
     "static/media/android.jpg": "/Chalo-deploy-karte-hain/static/media/android.e0d89948bb402fb9a09f.jpg",
+    "static/media/about us.svg": "/Chalo-deploy-karte-hain/static/media/about us.40003884f382c136fdf02c1d7756aadf.svg",
     "static/media/support.svg": "/Chalo-deploy-karte-hain/static/media/support.b1bbd648b59e082349a6ba5b66f4b1be.svg",
     "index.html": "/Chalo-deploy-karte-hain/index.html",
-    "main.5260c4e2.css.map": "/Chalo-deploy-karte-hain/static/css/main.5260c4e2.css.map",
-    "main.a93bd235.js.map": "/Chalo-deploy-karte-hain/static/js/main.a93bd235.js.map",
+    "main.ac01327b.css.map": "/Chalo-deploy-karte-hain/static/css/main.ac01327b.css.map",
+    "main.55ee6648.js.map": "/Chalo-deploy-karte-hain/static/js/main.55ee6648.js.map",
     "787.0330aac2.chunk.js.map": "/Chalo-deploy-karte-hain/static/js/787.0330aac2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5260c4e2.css",
-    "static/js/main.a93bd235.js"
+    "static/css/main.ac01327b.css",
+    "static/js/main.55ee6648.js"
   ]
 }
