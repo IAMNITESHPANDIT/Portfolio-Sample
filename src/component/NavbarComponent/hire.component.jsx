@@ -29,7 +29,7 @@ function Hire() {
               <div className="card-body">
                 <h5 className="card-title">PortFolio website</h5>
                 <p className="card-text">
-                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt aut accusantium animi sit. Voluptatum repellendus eligendi porro, perspiciatis iure error.
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt aut accusantium animi sit. Voluptatum repellendus eligendi porro, perspiciatis iure error.
 
                 </p>
               </div>
@@ -67,7 +67,7 @@ function Hire() {
               <div className="card-body">
                 <h5 className="card-title">C.S.A C.T.I-Android Application</h5>
                 <p className="card-text">
-                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt aut accusantium animi sit. Voluptatum repellendus eligendi porro, perspiciatis iure error.
+                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt aut accusantium animi sit. Voluptatum repellendus eligendi porro, perspiciatis iure error.
 
                 </p>
               </div>
@@ -81,7 +81,7 @@ function Hire() {
                   Open Source Contribution on Github
                 </h5>
                 <p className="card-text">
-                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt aut accusantium animi sit. Voluptatum repellendus eligendi porro, perspiciatis iure error.
+                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt aut accusantium animi sit. Voluptatum repellendus eligendi porro, perspiciatis iure error.
 
                 </p>
               </div>
