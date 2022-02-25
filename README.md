@@ -41,16 +41,19 @@ Choose one of the following options:
   latest version into a folder called `new-site`
 
   ```
+<<<<<<< HEAD
   npx createChalo-deploy-karte-hain new-website
   cd new-site
+=======
+  npx create-Chalo-deploy-karte-hain new-website
+  cd new-website
+>>>>>>> 41f0805eae9ef9332e3884ba7ab9f0f233eaedd1
   npm install
   npm start
   ```
 
 ## Features
 
-* A finely-tuned starter template. Reap the benefits of 10 years of analysis,
-  research and experimentation by over 200 contributors.
 * Designed with progressive enhancement in mind.
 * Includes:
   * [`Apache Server Configs`](https://github.com/h5bp/server-configs-apache)
