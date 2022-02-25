@@ -7,7 +7,7 @@ way that you want.
 
 * Homepage: [https://iamniteshpandit.github.io/Chalo-deploy-karte-hain//](https://iamniteshpandit.github.io/Chalo-deploy-karte-hain//)
 * Source: [https://github.com/IAMNITESHPANDIT/Chalo-deploy-karte-hain](https://github.com/IAMNITESHPANDIT/Chalo-deploy-karte-hain)
-* Twitter: [@h5bp](https://twitter.com/h5bp)
+* Twitter: [@iamniteshpandit](https://twitter.com/iamniteshpandit)
 
 ## Quick start
 
@@ -41,7 +41,7 @@ Choose one of the following options:
   latest version into a folder called `new-site`
 
   ```
-  npx create-html5-boilerplate new-site
+  npx createChalo-deploy-karte-hain new-website
   cd new-site
   npm install
   npm start
