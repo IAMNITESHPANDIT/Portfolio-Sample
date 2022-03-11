@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <NavBar/>
     
-      <Routes>
+      <Routes basename="/Chalo-deploy-karte-hain">
         /**here path changed path='/' into path="/Chalo-deploy-karte-hain" in-order to application would able to work with github pages  */
         <Route exact path="/Chalo-deploy-karte-hain" element={<Main />}/>
         <Route exact path="/Chalo-deploy-karte-hain/about" element={<About />} />
